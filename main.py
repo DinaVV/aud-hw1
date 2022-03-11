@@ -108,6 +108,6 @@ if __name__ == '__main__':
     returnValue6 = check_string(example_text)
     print(returnValue6)
 
-    # TASK7
+    #  TASK7
     print('###TASK7###')
     triangle(7)
